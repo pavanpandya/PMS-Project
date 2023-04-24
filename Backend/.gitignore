@@ -1,0 +1,7 @@
+.env
+backend/node_modules/*
+frontend/node_modules/*
+backend/.env
+*.csv
+.idea
+node_modules/*
